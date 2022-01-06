@@ -20,7 +20,7 @@ namespace TeamProject
             double border1 = 10;
             double border2 = 15;
 
-            double izambine = Math.Sqrt(border1 * border1 + border2 * border2);
+            izambine = Math.Sqrt(border1 * border1 + border2 * border2);
 
             Console.WriteLine($"{izambine}");
             //Isvestis
