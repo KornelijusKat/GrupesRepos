@@ -1,0 +1,16 @@
+C:\Users\Kornelijus\Documents\GitHub Stuff\Grupes\TeamProject\bin\Debug\net5.0\TeamProject.exe
+C:\Users\Kornelijus\Documents\GitHub Stuff\Grupes\TeamProject\bin\Debug\net5.0\TeamProject.deps.json
+C:\Users\Kornelijus\Documents\GitHub Stuff\Grupes\TeamProject\bin\Debug\net5.0\TeamProject.runtimeconfig.json
+C:\Users\Kornelijus\Documents\GitHub Stuff\Grupes\TeamProject\bin\Debug\net5.0\TeamProject.runtimeconfig.dev.json
+C:\Users\Kornelijus\Documents\GitHub Stuff\Grupes\TeamProject\bin\Debug\net5.0\TeamProject.dll
+C:\Users\Kornelijus\Documents\GitHub Stuff\Grupes\TeamProject\bin\Debug\net5.0\ref\TeamProject.dll
+C:\Users\Kornelijus\Documents\GitHub Stuff\Grupes\TeamProject\bin\Debug\net5.0\TeamProject.pdb
+C:\Users\Kornelijus\Documents\GitHub Stuff\Grupes\TeamProject\obj\Debug\net5.0\TeamProject.csproj.AssemblyReference.cache
+C:\Users\Kornelijus\Documents\GitHub Stuff\Grupes\TeamProject\obj\Debug\net5.0\TeamProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kornelijus\Documents\GitHub Stuff\Grupes\TeamProject\obj\Debug\net5.0\TeamProject.AssemblyInfoInputs.cache
+C:\Users\Kornelijus\Documents\GitHub Stuff\Grupes\TeamProject\obj\Debug\net5.0\TeamProject.AssemblyInfo.cs
+C:\Users\Kornelijus\Documents\GitHub Stuff\Grupes\TeamProject\obj\Debug\net5.0\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\Kornelijus\Documents\GitHub Stuff\Grupes\TeamProject\obj\Debug\net5.0\TeamProject.dll
+C:\Users\Kornelijus\Documents\GitHub Stuff\Grupes\TeamProject\obj\Debug\net5.0\ref\TeamProject.dll
+C:\Users\Kornelijus\Documents\GitHub Stuff\Grupes\TeamProject\obj\Debug\net5.0\TeamProject.pdb
+C:\Users\Kornelijus\Documents\GitHub Stuff\Grupes\TeamProject\obj\Debug\net5.0\TeamProject.genruntimeconfig.cache

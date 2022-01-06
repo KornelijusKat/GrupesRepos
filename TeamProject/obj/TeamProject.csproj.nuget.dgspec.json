@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kooky\\Documents\\DOTNET2\\SestaPamoka\\BendrasDarbas\\GrupesRepos\\TeamProject\\TeamProject.csproj": {}
+    "C:\\Users\\Kornelijus\\Documents\\GitHub Stuff\\Grupes\\TeamProject\\TeamProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kooky\\Documents\\DOTNET2\\SestaPamoka\\BendrasDarbas\\GrupesRepos\\TeamProject\\TeamProject.csproj": {
+    "C:\\Users\\Kornelijus\\Documents\\GitHub Stuff\\Grupes\\TeamProject\\TeamProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kooky\\Documents\\DOTNET2\\SestaPamoka\\BendrasDarbas\\GrupesRepos\\TeamProject\\TeamProject.csproj",
+        "projectUniqueName": "C:\\Users\\Kornelijus\\Documents\\GitHub Stuff\\Grupes\\TeamProject\\TeamProject.csproj",
         "projectName": "TeamProject",
-        "projectPath": "C:\\Users\\kooky\\Documents\\DOTNET2\\SestaPamoka\\BendrasDarbas\\GrupesRepos\\TeamProject\\TeamProject.csproj",
-        "packagesPath": "C:\\Users\\kooky\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kooky\\Documents\\DOTNET2\\SestaPamoka\\BendrasDarbas\\GrupesRepos\\TeamProject\\obj\\",
+        "projectPath": "C:\\Users\\Kornelijus\\Documents\\GitHub Stuff\\Grupes\\TeamProject\\TeamProject.csproj",
+        "packagesPath": "C:\\Users\\Kornelijus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kornelijus\\Documents\\GitHub Stuff\\Grupes\\TeamProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kooky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kornelijus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
