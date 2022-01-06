@@ -11,8 +11,11 @@ namespace TeamProject
             double izambine = 0;
 
             //Pirma Uzduotis
+            double radius = 6371;
+            earthArea = 4 * Math.PI * (radius * radius);
             //Antra Uzduotis
-            //Trecia Uzduotis
+            earthVolume = (4 / 3) * Math.PI * radius * radius;
+
 
             double border1 = 10;
             double border2 = 15;
