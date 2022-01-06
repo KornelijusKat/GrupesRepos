@@ -15,10 +15,14 @@ namespace TeamProject
             earthArea = 4 * Math.PI * (radius * radius);
             //Antra Uzduotis
             earthVolume = (4 / 3) * Math.PI * radius * radius;
-            //489144645
-            
-            //Trecia Uzduotis
 
+
+            double border1 = 10;
+            double border2 = 15;
+
+            double izambine = Math.Sqrt(border1 * border1 + border2 * border2);
+
+            Console.WriteLine($"{izambine}");
             //Isvestis
             Console.WriteLine("*************************************************");
             Console.WriteLine($"Kintamasis 1: {earthArea}");
