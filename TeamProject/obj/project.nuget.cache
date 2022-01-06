@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "mxbTrwxePZb+v/VwsihzifK6ubVZAkGPH0XMXRiFsbnTaO+klGG1qIaFwrFW1ybEf26m9/ZiouBSpb5bKovYzQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\kooky\\Documents\\DOTNET2\\SestaPamoka\\BendrasDarbas\\GrupesRepos\\TeamProject\\TeamProject.csproj",
-=======
-  "dgSpecHash": "7A8KkmNjaT9JSZM6i11B1wqNOYUgacXtATux9YL5T3UTPR2q1TuA2zVGqe1El+T5cP6/jjH1afqjYbzVWKceDg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\dvitk\\OneDrive\\Desktop\\Codeacademy\\GrupesRepos\\TeamProject\\TeamProject.csproj",
->>>>>>> 8d118a701b79590fc19f8dca21d31d6264d0be6d
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\kooky\\Documents\\DOTNET2\\SestaPamoka\\BendrasDarbas\\GrupesRepos\\TeamProject\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
