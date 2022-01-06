@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Kornelijus\Documents\GitHub Stuff\Grupes\TeamProject\bin\Debug\net5.0\TeamProject.exe
 C:\Users\Kornelijus\Documents\GitHub Stuff\Grupes\TeamProject\bin\Debug\net5.0\TeamProject.deps.json
 C:\Users\Kornelijus\Documents\GitHub Stuff\Grupes\TeamProject\bin\Debug\net5.0\TeamProject.runtimeconfig.json
@@ -14,3 +15,21 @@ C:\Users\Kornelijus\Documents\GitHub Stuff\Grupes\TeamProject\obj\Debug\net5.0\T
 C:\Users\Kornelijus\Documents\GitHub Stuff\Grupes\TeamProject\obj\Debug\net5.0\ref\TeamProject.dll
 C:\Users\Kornelijus\Documents\GitHub Stuff\Grupes\TeamProject\obj\Debug\net5.0\TeamProject.pdb
 C:\Users\Kornelijus\Documents\GitHub Stuff\Grupes\TeamProject\obj\Debug\net5.0\TeamProject.genruntimeconfig.cache
+=======
+C:\Users\kooky\Documents\DOTNET2\SestaPamoka\BendrasDarbas\GrupesRepos\TeamProject\bin\Debug\net5.0\TeamProject.exe
+C:\Users\kooky\Documents\DOTNET2\SestaPamoka\BendrasDarbas\GrupesRepos\TeamProject\bin\Debug\net5.0\TeamProject.deps.json
+C:\Users\kooky\Documents\DOTNET2\SestaPamoka\BendrasDarbas\GrupesRepos\TeamProject\bin\Debug\net5.0\TeamProject.runtimeconfig.json
+C:\Users\kooky\Documents\DOTNET2\SestaPamoka\BendrasDarbas\GrupesRepos\TeamProject\bin\Debug\net5.0\TeamProject.runtimeconfig.dev.json
+C:\Users\kooky\Documents\DOTNET2\SestaPamoka\BendrasDarbas\GrupesRepos\TeamProject\bin\Debug\net5.0\TeamProject.dll
+C:\Users\kooky\Documents\DOTNET2\SestaPamoka\BendrasDarbas\GrupesRepos\TeamProject\bin\Debug\net5.0\ref\TeamProject.dll
+C:\Users\kooky\Documents\DOTNET2\SestaPamoka\BendrasDarbas\GrupesRepos\TeamProject\bin\Debug\net5.0\TeamProject.pdb
+C:\Users\kooky\Documents\DOTNET2\SestaPamoka\BendrasDarbas\GrupesRepos\TeamProject\obj\Debug\net5.0\TeamProject.csproj.AssemblyReference.cache
+C:\Users\kooky\Documents\DOTNET2\SestaPamoka\BendrasDarbas\GrupesRepos\TeamProject\obj\Debug\net5.0\TeamProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kooky\Documents\DOTNET2\SestaPamoka\BendrasDarbas\GrupesRepos\TeamProject\obj\Debug\net5.0\TeamProject.AssemblyInfoInputs.cache
+C:\Users\kooky\Documents\DOTNET2\SestaPamoka\BendrasDarbas\GrupesRepos\TeamProject\obj\Debug\net5.0\TeamProject.AssemblyInfo.cs
+C:\Users\kooky\Documents\DOTNET2\SestaPamoka\BendrasDarbas\GrupesRepos\TeamProject\obj\Debug\net5.0\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\kooky\Documents\DOTNET2\SestaPamoka\BendrasDarbas\GrupesRepos\TeamProject\obj\Debug\net5.0\TeamProject.dll
+C:\Users\kooky\Documents\DOTNET2\SestaPamoka\BendrasDarbas\GrupesRepos\TeamProject\obj\Debug\net5.0\ref\TeamProject.dll
+C:\Users\kooky\Documents\DOTNET2\SestaPamoka\BendrasDarbas\GrupesRepos\TeamProject\obj\Debug\net5.0\TeamProject.pdb
+C:\Users\kooky\Documents\DOTNET2\SestaPamoka\BendrasDarbas\GrupesRepos\TeamProject\obj\Debug\net5.0\TeamProject.genruntimeconfig.cache
+>>>>>>> 393f52bc2abd872b97385a13f25de732e2027efa
