@@ -6,7 +6,15 @@ namespace TeamProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double earthArea = 0;
+            double earthVolume = 0;
+            double izambine = 0;
+
+            //Pirma Uzduotis
+            //Antra Uzduotis
+            //Trecia Uzduotis
+            //Isvestis
+
         }
     }
 }
