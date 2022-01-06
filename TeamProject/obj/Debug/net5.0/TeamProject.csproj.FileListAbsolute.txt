@@ -33,3 +33,19 @@ C:\Users\kooky\Documents\DOTNET2\SestaPamoka\BendrasDarbas\GrupesRepos\TeamProje
 C:\Users\kooky\Documents\DOTNET2\SestaPamoka\BendrasDarbas\GrupesRepos\TeamProject\obj\Debug\net5.0\TeamProject.pdb
 C:\Users\kooky\Documents\DOTNET2\SestaPamoka\BendrasDarbas\GrupesRepos\TeamProject\obj\Debug\net5.0\TeamProject.genruntimeconfig.cache
 >>>>>>> 393f52bc2abd872b97385a13f25de732e2027efa
+C:\Users\dvitk\OneDrive\Desktop\Codeacademy\GrupesRepos\TeamProject\bin\Debug\net5.0\TeamProject.exe
+C:\Users\dvitk\OneDrive\Desktop\Codeacademy\GrupesRepos\TeamProject\bin\Debug\net5.0\TeamProject.deps.json
+C:\Users\dvitk\OneDrive\Desktop\Codeacademy\GrupesRepos\TeamProject\bin\Debug\net5.0\TeamProject.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Desktop\Codeacademy\GrupesRepos\TeamProject\bin\Debug\net5.0\TeamProject.runtimeconfig.dev.json
+C:\Users\dvitk\OneDrive\Desktop\Codeacademy\GrupesRepos\TeamProject\bin\Debug\net5.0\TeamProject.dll
+C:\Users\dvitk\OneDrive\Desktop\Codeacademy\GrupesRepos\TeamProject\bin\Debug\net5.0\ref\TeamProject.dll
+C:\Users\dvitk\OneDrive\Desktop\Codeacademy\GrupesRepos\TeamProject\bin\Debug\net5.0\TeamProject.pdb
+C:\Users\dvitk\OneDrive\Desktop\Codeacademy\GrupesRepos\TeamProject\obj\Debug\net5.0\TeamProject.csproj.AssemblyReference.cache
+C:\Users\dvitk\OneDrive\Desktop\Codeacademy\GrupesRepos\TeamProject\obj\Debug\net5.0\TeamProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Desktop\Codeacademy\GrupesRepos\TeamProject\obj\Debug\net5.0\TeamProject.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Desktop\Codeacademy\GrupesRepos\TeamProject\obj\Debug\net5.0\TeamProject.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Desktop\Codeacademy\GrupesRepos\TeamProject\obj\Debug\net5.0\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Desktop\Codeacademy\GrupesRepos\TeamProject\obj\Debug\net5.0\TeamProject.dll
+C:\Users\dvitk\OneDrive\Desktop\Codeacademy\GrupesRepos\TeamProject\obj\Debug\net5.0\ref\TeamProject.dll
+C:\Users\dvitk\OneDrive\Desktop\Codeacademy\GrupesRepos\TeamProject\obj\Debug\net5.0\TeamProject.pdb
+C:\Users\dvitk\OneDrive\Desktop\Codeacademy\GrupesRepos\TeamProject\obj\Debug\net5.0\TeamProject.genruntimeconfig.cache

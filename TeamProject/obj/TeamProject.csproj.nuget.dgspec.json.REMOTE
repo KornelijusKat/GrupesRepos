@@ -1,22 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\kooky\\Documents\\DOTNET2\\SestaPamoka\\BendrasDarbas\\GrupesRepos\\TeamProject\\TeamProject.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\kooky\\Documents\\DOTNET2\\SestaPamoka\\BendrasDarbas\\GrupesRepos\\TeamProject\\TeamProject.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\kooky\\Documents\\DOTNET2\\SestaPamoka\\BendrasDarbas\\GrupesRepos\\TeamProject\\TeamProject.csproj",
-        "projectName": "TeamProject",
-        "projectPath": "C:\\Users\\kooky\\Documents\\DOTNET2\\SestaPamoka\\BendrasDarbas\\GrupesRepos\\TeamProject\\TeamProject.csproj",
-        "packagesPath": "C:\\Users\\kooky\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kooky\\Documents\\DOTNET2\\SestaPamoka\\BendrasDarbas\\GrupesRepos\\TeamProject\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\kooky\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
     "C:\\Users\\dvitk\\OneDrive\\Desktop\\Codeacademy\\GrupesRepos\\TeamProject\\TeamProject.csproj": {}
   },
   "projects": {
@@ -31,7 +15,6 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dvitk\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 8d118a701b79590fc19f8dca21d31d6264d0be6d
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -71,11 +54,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
-=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
->>>>>>> 8d118a701b79590fc19f8dca21d31d6264d0be6d
         }
       }
     }
