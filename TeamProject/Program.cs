@@ -19,7 +19,7 @@ namespace TeamProject
 
             double izambine = Math.Sqrt(border1 * border1 + border2 * border2);
 
-            Console.WriteLine($"{izambine}")
+            Console.WriteLine($"{izambine}");
             //Isvestis
             Console.WriteLine("*************************************************");
             Console.WriteLine($"Kintamasis 1: {earthArea}");
