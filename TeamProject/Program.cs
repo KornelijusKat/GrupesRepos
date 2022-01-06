@@ -14,6 +14,14 @@ namespace TeamProject
             //Antra Uzduotis
             //Trecia Uzduotis
             //Isvestis
+            Console.WriteLine("*************************************************");
+            Console.WriteLine($"Kintamasis 1: {earthArea}");
+            Console.WriteLine($"Kintamasis 2: {earthVolume}");
+            Console.WriteLine($"Kintamasis 3: {izambine}");
+            Console.WriteLine("Kintamuju suma yra: {0}", earthArea + earthVolume + izambine);
+            Console.WriteLine("Kintamuju vidurkis yra: {0}", (earthArea + earthVolume + izambine) / 3);
+            Console.WriteLine("*************************************************");
+            Console.ReadLine();
 
         }
     }
