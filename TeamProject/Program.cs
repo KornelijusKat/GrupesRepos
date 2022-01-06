@@ -15,6 +15,7 @@ namespace TeamProject
             earthArea = 4 * Math.PI * (radius * radius);
             //Antra Uzduotis
             earthVolume = (4 / 3) * Math.PI * radius * radius;
+            //489144645
             
             //Trecia Uzduotis
 
